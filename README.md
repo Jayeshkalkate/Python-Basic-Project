@@ -1,4 +1,4 @@
-# Python-Basic-Project
+# Python-Basic-Project-8
 By using python programming language
 
 # Sum of Natural Numbers: 
